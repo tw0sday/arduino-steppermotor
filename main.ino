@@ -42,4 +42,4 @@ void loop()
     delay(1000);
     // Richtungswechsel nach vollständiger Umdrehung
     moveClockwise = !moveClockwise;
-} // end loop 
+} // end loop
